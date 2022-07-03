@@ -1,2 +1,2 @@
 # loopback-api-example
-Example API using LoopbackJS.
+An example API for learning how to use LoopbackJS.
